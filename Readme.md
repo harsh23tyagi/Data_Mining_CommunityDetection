@@ -7,6 +7,7 @@ Case 2: Detect Communities
 # Task: Apply Girvan Neuman Algorithms
 
 _Case 1:_ Calculate betweenness using the Algorithm between users and create a graph
+
 _Case 2:_ Based on betweenness detect communities - Community detection requires calculating modularity of partitioning graph
 
 ## Note:
